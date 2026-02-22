@@ -1,2 +1,2 @@
-# ~Demo
-<i>This is my first repository.<i>
+# ~UI Clone Project
+<i>Fully Responsive Amazon UI Clone (No JavaScript).<i>
